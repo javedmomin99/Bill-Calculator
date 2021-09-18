@@ -1,4 +1,4 @@
-print("Welcome to the Bill Calcuator!")
+print("Welcome to the Bill Calculator!")
 bill = float(input("What is the total bill amount? \n$"))
 tip = int(input("how much tip would you like to pay in percent?\n")) 
 tip_in_percent = tip / 100
